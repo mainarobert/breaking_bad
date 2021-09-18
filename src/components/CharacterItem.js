@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CharacterItem = ({ item}) => {
+const CharacterItem = ({ item }) => {
     console.log(item)
 
     return (
