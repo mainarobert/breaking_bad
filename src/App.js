@@ -24,7 +24,7 @@ const App = () => {
     return (
         <div className= "container">
             <Header />
-            <Characters isLoading = {isLoading} charactersItems ={charactersItems}/>
+            <Characters isLoading = {isLoading} charactersItems = {charactersItems}/>
         </div>
     )
     
